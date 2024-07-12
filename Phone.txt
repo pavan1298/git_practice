@@ -2,3 +2,5 @@ Phone no: 9999999
 
 gorilla glass
 camera
+
+finger print
